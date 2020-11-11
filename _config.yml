@@ -1,4 +1,4 @@
-title: Kara L
+title: Kara's Page
 author: GitHub User
 email: kara9504leem@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -17,7 +17,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
+  title: Hello, Jekyll
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black

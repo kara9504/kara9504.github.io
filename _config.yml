@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Soyeon's Statci Page</p>
+     <p>Soyeon's Static Page</p>
 
      <p>For 2D game tool project Litiengine</p>
   header_text_feature_image:

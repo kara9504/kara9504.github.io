@@ -2,7 +2,6 @@
 layout: post
 title: 프로젝트 진행 사항 정리
 tags: [team, status, weekly]
-feature-img: "assets/img/sample_feature_img.png"
 ---
 
 > 22, November, 2020

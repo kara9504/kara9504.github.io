@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: <a href="kara9504/kara9504.github.io" target="_blank"></a>
+  github: "kara9504/kara9504.github.io"
   gitter:
   google_plus:
   instagram:
